@@ -2,7 +2,7 @@
 import inspect
 import logging
 
-from mmcv.utils import get_logger
+from mmmcv.utils import get_logger
 
 
 def get_root_logger(log_file=None, log_level=logging.INFO):
